@@ -14,3 +14,8 @@ Overall, this case study not only helped me understand the mathematical concepts
 I have attacted the python code for demo and one image 
 
 ThankYou
+
+To Run THis Files You Need to Install followings things in Your system
+
+Tesseract https://objects.githubusercontent.com/github-production-release-asset-2e65be/22887094/87baebb0-a3be-4707-97df-8198ef676a8e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250603T133834Z&X-Amz-Expires=300&X-Amz-Signature=e82f46e387610e0535c1f25499ff1c57ecab14e63b10b154ebdd906c0f1a1e08&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dtesseract-ocr-w64-setup-5.5.0.20241111.exe&response-content-type=application%2Foctet-stream
+pip install opencv-python numpy pytesseract pillow (in Python Pip)
